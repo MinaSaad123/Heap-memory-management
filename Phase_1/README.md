@@ -19,4 +19,4 @@
 
   ## **Test case scenario2**
 
-  <img src="https://i.imgur.com/xE7FX0q.png" >
+  <img src="https://i.imgur.com/4XX59vf.png" >
